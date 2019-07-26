@@ -1,1 +1,3 @@
-# nkgm2_test
+# hello-world
+hello everyone.
+みなさんこんにちは。
